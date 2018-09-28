@@ -5,6 +5,7 @@
             "intelliSenseMode": "gcc-x64",
             "compilerPath": "C:/mingw64/bin/gcc.exe",
             "includePath": [
+                "${workspaceFolder}",
                 "${workspaceFolder}"
             ],
             "defines": [],

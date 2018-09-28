@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "-g","main.cpp", "-fopenmp"
+                "-g","main4.cpp", "-fopenmp"
             ],
             "group": {
                 "kind": "build",
