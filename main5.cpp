@@ -15,6 +15,8 @@ void freeSquareMatrix(int **matrix);
 
 void printBanchmarkMultiply(int tipo, double start, double t_criacao, double end, int count);
 
+void printBanchmarkSum(int tipo, double start, double end);
+
 int **addMatixValues(int **matrix, int length, int tipo);
 
 int main(){
@@ -51,8 +53,13 @@ int main(){
 	
 	end = omp_get_wtime();
 	
-	tipo = 0;
-	addMatixValues(result, length, tipo);
+	for (tipo = 0; tipo < 1; i++){
+		start = omp_get_wtime();
+		addMatixValues(result, length, tipo);
+		end = omp_get_wtime();
+		printBanchmarkSum(tipo, start, end);
+	}
+	
 	
 	freeSquareMatrix(matrix1); freeSquareMatrix(matrix2); freeSquareMatrix(result);
 	return 0;
