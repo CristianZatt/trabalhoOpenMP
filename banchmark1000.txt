@@ -1,0 +1,657 @@
+Tamanho da matriz:  1000
+Multiplicacoes: 1
+Numero maximo de threads: 15
+
+ +++++++++++
+ THREADS: 2
+ MTP Tipo: 0
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 4.4429998397827148 sec
+Tempo total das multiplicacoes : 4.4429998397827148 sec
+Tempo total de execucao : 4.4749999046325684 sec
+
+ MTP Tipo: 1
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 2.3540000915527344 sec
+Tempo total das multiplicacoes : 2.3540000915527344 sec
+Tempo total de execucao : 2.3860001564025879 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 2.5789999961853027 sec
+Tempo total das multiplicacoes : 2.5789999961853027 sec
+Tempo total de execucao : 2.6110000610351562 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0329999923706055 sec
+Tempo medio de uma multiplicacao : 2.3900001049041748 sec
+Tempo total das multiplicacoes : 2.3900001049041748 sec
+Tempo total de execucao : 2.4230000972747803 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 2.2389998435974121 sec
+Tempo total das multiplicacoes : 2.2389998435974121 sec
+Tempo total de execucao : 2.2709999084472656 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0309998989105225 sec
+Tempo medio de uma multiplicacao : 8.8680000305175781 sec
+Tempo total das multiplicacoes : 8.8680000305175781 sec
+Tempo total de execucao : 8.8989999294281006 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 70.5399999618530270 sec
+Tempo total das multiplicacoes : 70.5399999618530270 sec
+Tempo total de execucao : 70.5720000267028810 sec
+
+ SUM Tipo: 0
+ Resultado: 569868288
+Tempo da soma : 0.0049998760223389 sec
+
+ SUM Tipo: 1
+ Resultado: 569868288
+Tempo da soma : 0.0030000209808350 sec
+
+ SUM Tipo: 2
+ Resultado: 569868288
+Tempo da soma : 0.0889999866485596 sec
+
+ +++++++++++
+ THREADS: 3
+ MTP Tipo: 1
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 1.5999999046325684 sec
+Tempo total das multiplicacoes : 1.5999999046325684 sec
+Tempo total de execucao : 1.6319999694824219 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 1.7279999256134033 sec
+Tempo total das multiplicacoes : 1.7279999256134033 sec
+Tempo total de execucao : 1.7599999904632568 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0350000858306885 sec
+Tempo medio de uma multiplicacao : 1.7669999599456787 sec
+Tempo total das multiplicacoes : 1.7669999599456787 sec
+Tempo total de execucao : 1.8020000457763672 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0339999198913574 sec
+Tempo medio de uma multiplicacao : 1.5609998703002930 sec
+Tempo total das multiplicacoes : 1.5609998703002930 sec
+Tempo total de execucao : 1.5949997901916504 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0319998264312744 sec
+Tempo medio de uma multiplicacao : 9.6650002002716064 sec
+Tempo total das multiplicacoes : 9.6650002002716064 sec
+Tempo total de execucao : 9.6970000267028809 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0319998264312744 sec
+Tempo medio de uma multiplicacao : 69.8949999809265140 sec
+Tempo total das multiplicacoes : 69.8949999809265140 sec
+Tempo total de execucao : 69.9269998073577880 sec
+
+ SUM Tipo: 1
+ Resultado: -1099595776
+Tempo da soma : 0.0019998550415039 sec
+
+ SUM Tipo: 2
+ Resultado: -1099595776
+Tempo da soma : 0.0629999637603760 sec
+
+ +++++++++++
+ THREADS: 4
+ MTP Tipo: 1
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 1.2020001411437988 sec
+Tempo total das multiplicacoes : 1.2020001411437988 sec
+Tempo total de execucao : 1.2340002059936523 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0360000133514404 sec
+Tempo medio de uma multiplicacao : 1.2730000019073486 sec
+Tempo total das multiplicacoes : 1.2730000019073486 sec
+Tempo total de execucao : 1.3090000152587891 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0339999198913574 sec
+Tempo medio de uma multiplicacao : 1.2940001487731934 sec
+Tempo total das multiplicacoes : 1.2940001487731934 sec
+Tempo total de execucao : 1.3280000686645508 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0360000133514404 sec
+Tempo medio de uma multiplicacao : 1.1499998569488525 sec
+Tempo total das multiplicacoes : 1.1499998569488525 sec
+Tempo total de execucao : 1.1859998703002930 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0319998264312744 sec
+Tempo medio de uma multiplicacao : 9.3750000000000000 sec
+Tempo total das multiplicacoes : 9.3750000000000000 sec
+Tempo total de execucao : 9.4069998264312744 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 58.8719999790191650 sec
+Tempo total das multiplicacoes : 58.8719999790191650 sec
+Tempo total de execucao : 58.9040000438690190 sec
+
+ SUM Tipo: 1
+ Resultado: -2058776576
+Tempo da soma : 0.0009999275207520 sec
+
+ SUM Tipo: 2
+ Resultado: -2058776576
+Tempo da soma : 0.0620000362396240 sec
+
+ +++++++++++
+ THREADS: 5
+ MTP Tipo: 1
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 0.9349999427795410 sec
+Tempo total das multiplicacoes : 0.9349999427795410 sec
+Tempo total de execucao : 0.9670000076293945 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 0.9890000820159912 sec
+Tempo total das multiplicacoes : 0.9890000820159912 sec
+Tempo total de execucao : 1.0270001888275146 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 0.9589998722076416 sec
+Tempo total das multiplicacoes : 0.9589998722076416 sec
+Tempo total de execucao : 0.9909999370574951 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0390000343322754 sec
+Tempo medio de uma multiplicacao : 0.9149999618530273 sec
+Tempo total das multiplicacoes : 0.9149999618530273 sec
+Tempo total de execucao : 0.9539999961853027 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 9.8389999866485596 sec
+Tempo total das multiplicacoes : 9.8389999866485596 sec
+Tempo total de execucao : 9.8710000514984131 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 47.1440000534057620 sec
+Tempo total das multiplicacoes : 47.1440000534057620 sec
+Tempo total de execucao : 47.1760001182556150 sec
+
+ SUM Tipo: 1
+ Resultado: 1175697408
+Tempo da soma : 0.0009999275207520 sec
+
+ SUM Tipo: 2
+ Resultado: 1175697408
+Tempo da soma : 0.0659999847412109 sec
+
+ +++++++++++
+ THREADS: 6
+ MTP Tipo: 1
+Tempo de criacao : 0.0309998989105225 sec
+Tempo medio de uma multiplicacao : 0.7880001068115234 sec
+Tempo total das multiplicacoes : 0.7880001068115234 sec
+Tempo total de execucao : 0.8190000057220459 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0390000343322754 sec
+Tempo medio de uma multiplicacao : 0.8359999656677246 sec
+Tempo total das multiplicacoes : 0.8359999656677246 sec
+Tempo total de execucao : 0.8750000000000000 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0319998264312744 sec
+Tempo medio de uma multiplicacao : 0.8420000076293945 sec
+Tempo total das multiplicacoes : 0.8420000076293945 sec
+Tempo total de execucao : 0.8739998340606690 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0350000858306885 sec
+Tempo medio de uma multiplicacao : 0.8169999122619629 sec
+Tempo total das multiplicacoes : 0.8169999122619629 sec
+Tempo total de execucao : 0.8519999980926514 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0390000343322754 sec
+Tempo medio de uma multiplicacao : 9.4170000553131104 sec
+Tempo total das multiplicacoes : 9.4170000553131104 sec
+Tempo total de execucao : 9.4560000896453857 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 42.0060000419616700 sec
+Tempo total das multiplicacoes : 42.0060000419616700 sec
+Tempo total de execucao : 42.0380001068115230 sec
+
+ SUM Tipo: 1
+ Resultado: -404733952
+Tempo da soma : 0.0009999275207520 sec
+
+ SUM Tipo: 2
+ Resultado: -404733952
+Tempo da soma : 0.0740001201629639 sec
+
+ +++++++++++
+ THREADS: 7
+ MTP Tipo: 1
+Tempo de criacao : 0.0310001373291016 sec
+Tempo medio de uma multiplicacao : 0.7439999580383301 sec
+Tempo total das multiplicacoes : 0.7439999580383301 sec
+Tempo total de execucao : 0.7750000953674316 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0319998264312744 sec
+Tempo medio de uma multiplicacao : 0.7590000629425049 sec
+Tempo total das multiplicacoes : 0.7590000629425049 sec
+Tempo total de execucao : 0.7909998893737793 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 0.7300000190734863 sec
+Tempo total das multiplicacoes : 0.7300000190734863 sec
+Tempo total de execucao : 0.7680001258850098 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0360000133514404 sec
+Tempo medio de uma multiplicacao : 0.6629998683929443 sec
+Tempo total das multiplicacoes : 0.6629998683929443 sec
+Tempo total de execucao : 0.6989998817443848 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0390000343322754 sec
+Tempo medio de uma multiplicacao : 8.7209999561309814 sec
+Tempo total das multiplicacoes : 8.7209999561309814 sec
+Tempo total de execucao : 8.7599999904632568 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0379998683929443 sec
+Tempo medio de uma multiplicacao : 39.4779999256134030 sec
+Tempo total das multiplicacoes : 39.4779999256134030 sec
+Tempo total de execucao : 39.5159997940063480 sec
+
+ SUM Tipo: 1
+ Resultado: -154173440
+Tempo da soma : 0.0009999275207520 sec
+
+ SUM Tipo: 2
+ Resultado: -154173440
+Tempo da soma : 0.0940001010894775 sec
+
+ +++++++++++
+ THREADS: 8
+ MTP Tipo: 1
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 0.6050000190734863 sec
+Tempo total das multiplicacoes : 0.6050000190734863 sec
+Tempo total de execucao : 0.6370000839233398 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 0.6679999828338623 sec
+Tempo total das multiplicacoes : 0.6679999828338623 sec
+Tempo total de execucao : 0.7000000476837158 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0369999408721924 sec
+Tempo medio de uma multiplicacao : 0.6389999389648438 sec
+Tempo total das multiplicacoes : 0.6389999389648438 sec
+Tempo total de execucao : 0.6759998798370361 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0319998264312744 sec
+Tempo medio de uma multiplicacao : 0.5960001945495606 sec
+Tempo total das multiplicacoes : 0.5960001945495606 sec
+Tempo total de execucao : 0.6280000209808350 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0319998264312744 sec
+Tempo medio de uma multiplicacao : 8.5440001487731934 sec
+Tempo total das multiplicacoes : 8.5440001487731934 sec
+Tempo total de execucao : 8.5759999752044678 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 40.2960000038146970 sec
+Tempo total das multiplicacoes : 40.2960000038146970 sec
+Tempo total de execucao : 40.3340001106262210 sec
+
+ SUM Tipo: 1
+ Resultado: -1967652864
+Tempo da soma : 0.0009999275207520 sec
+
+ SUM Tipo: 2
+ Resultado: -1967652864
+Tempo da soma : 0.1099998950958252 sec
+
+ +++++++++++
+ THREADS: 9
+ MTP Tipo: 1
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 0.8150000572204590 sec
+Tempo total das multiplicacoes : 0.8150000572204590 sec
+Tempo total de execucao : 0.8470001220703125 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 0.7209999561309815 sec
+Tempo total das multiplicacoes : 0.7209999561309815 sec
+Tempo total de execucao : 0.7530000209808350 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 0.8140001296997070 sec
+Tempo total das multiplicacoes : 0.8140001296997070 sec
+Tempo total de execucao : 0.8460001945495606 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 0.5869998931884766 sec
+Tempo total das multiplicacoes : 0.5869998931884766 sec
+Tempo total de execucao : 0.6189999580383301 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 8.7269999980926514 sec
+Tempo total das multiplicacoes : 8.7269999980926514 sec
+Tempo total de execucao : 8.7650001049041748 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 41.4500000476837160 sec
+Tempo total das multiplicacoes : 41.4500000476837160 sec
+Tempo total de execucao : 41.4880001544952390 sec
+
+ SUM Tipo: 1
+ Resultado: -457994240
+Tempo da soma : 0.0000000000000000 sec
+
+ SUM Tipo: 2
+ Resultado: -457994240
+Tempo da soma : 0.1240000724792481 sec
+
+ +++++++++++
+ THREADS: 10
+ MTP Tipo: 1
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 0.7239999771118164 sec
+Tempo total das multiplicacoes : 0.7239999771118164 sec
+Tempo total de execucao : 0.7560000419616699 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0339999198913574 sec
+Tempo medio de uma multiplicacao : 0.7599999904632568 sec
+Tempo total das multiplicacoes : 0.7599999904632568 sec
+Tempo total de execucao : 0.7939999103546143 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0350000858306885 sec
+Tempo medio de uma multiplicacao : 0.7230000495910645 sec
+Tempo total das multiplicacoes : 0.7230000495910645 sec
+Tempo total de execucao : 0.7580001354217529 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0350000858306885 sec
+Tempo medio de uma multiplicacao : 0.5850000381469727 sec
+Tempo total das multiplicacoes : 0.5850000381469727 sec
+Tempo total de execucao : 0.6200001239776611 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0309998989105225 sec
+Tempo medio de uma multiplicacao : 8.7960000038146973 sec
+Tempo total das multiplicacoes : 8.7960000038146973 sec
+Tempo total de execucao : 8.8269999027252197 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0379998683929443 sec
+Tempo medio de uma multiplicacao : 39.9620001316070560 sec
+Tempo total das multiplicacoes : 39.9620001316070560 sec
+Tempo total de execucao : 40.0000000000000000 sec
+
+ SUM Tipo: 1
+ Resultado: 1472479232
+Tempo da soma : 0.0009999275207520 sec
+
+ SUM Tipo: 2
+ Resultado: 1472479232
+Tempo da soma : 0.1660001277923584 sec
+
+ +++++++++++
+ THREADS: 11
+ MTP Tipo: 1
+Tempo de criacao : 0.0370001792907715 sec
+Tempo medio de uma multiplicacao : 0.7379999160766602 sec
+Tempo total das multiplicacoes : 0.7379999160766602 sec
+Tempo total de execucao : 0.7750000953674316 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0390000343322754 sec
+Tempo medio de uma multiplicacao : 0.8320000171661377 sec
+Tempo total das multiplicacoes : 0.8320000171661377 sec
+Tempo total de execucao : 0.8710000514984131 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0329999923706055 sec
+Tempo medio de uma multiplicacao : 0.8480000495910645 sec
+Tempo total das multiplicacoes : 0.8480000495910645 sec
+Tempo total de execucao : 0.8810000419616699 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0319998264312744 sec
+Tempo medio de uma multiplicacao : 0.7240002155303955 sec
+Tempo total das multiplicacoes : 0.7240002155303955 sec
+Tempo total de execucao : 0.7560000419616699 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0379998683929443 sec
+Tempo medio de uma multiplicacao : 8.7190001010894775 sec
+Tempo total das multiplicacoes : 8.7190001010894775 sec
+Tempo total de execucao : 8.7569999694824219 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 39.4219999313354490 sec
+Tempo total das multiplicacoes : 39.4219999313354490 sec
+Tempo total de execucao : 39.4600000381469730 sec
+
+ SUM Tipo: 1
+ Resultado: 48541696
+Tempo da soma : 0.0009999275207520 sec
+
+ SUM Tipo: 2
+ Resultado: 48541696
+Tempo da soma : 0.1870000362396240 sec
+
+ +++++++++++
+ THREADS: 12
+ MTP Tipo: 1
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 0.7609999179840088 sec
+Tempo total das multiplicacoes : 0.7609999179840088 sec
+Tempo total de execucao : 0.7990000247955322 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0319998264312744 sec
+Tempo medio de uma multiplicacao : 0.6630001068115234 sec
+Tempo total das multiplicacoes : 0.6630001068115234 sec
+Tempo total de execucao : 0.6949999332427979 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 0.6940000057220459 sec
+Tempo total das multiplicacoes : 0.6940000057220459 sec
+Tempo total de execucao : 0.7320001125335693 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 0.6280000209808350 sec
+Tempo total das multiplicacoes : 0.6280000209808350 sec
+Tempo total de execucao : 0.6600000858306885 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0390000343322754 sec
+Tempo medio de uma multiplicacao : 7.6129999160766602 sec
+Tempo total das multiplicacoes : 7.6129999160766602 sec
+Tempo total de execucao : 7.6519999504089355 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 38.2039999961853030 sec
+Tempo total das multiplicacoes : 38.2039999961853030 sec
+Tempo total de execucao : 38.2420001029968260 sec
+
+ SUM Tipo: 1
+ Resultado: -132534272
+Tempo da soma : 0.0009999275207520 sec
+
+ SUM Tipo: 2
+ Resultado: -132534272
+Tempo da soma : 0.1779999732971191 sec
+
+ +++++++++++
+ THREADS: 13
+ MTP Tipo: 1
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 0.6489999294281006 sec
+Tempo total das multiplicacoes : 0.6489999294281006 sec
+Tempo total de execucao : 0.6870000362396240 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0339999198913574 sec
+Tempo medio de uma multiplicacao : 0.6959998607635498 sec
+Tempo total das multiplicacoes : 0.6959998607635498 sec
+Tempo total de execucao : 0.7299997806549072 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0379998683929443 sec
+Tempo medio de uma multiplicacao : 0.6990001201629639 sec
+Tempo total das multiplicacoes : 0.6990001201629639 sec
+Tempo total de execucao : 0.7369999885559082 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 0.6299998760223389 sec
+Tempo total das multiplicacoes : 0.6299998760223389 sec
+Tempo total de execucao : 0.6679999828338623 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 7.0729999542236328 sec
+Tempo total das multiplicacoes : 7.0729999542236328 sec
+Tempo total de execucao : 7.1110000610351562 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0379998683929443 sec
+Tempo medio de uma multiplicacao : 36.8310000896453860 sec
+Tempo total das multiplicacoes : 36.8310000896453860 sec
+Tempo total de execucao : 36.8689999580383300 sec
+
+ SUM Tipo: 1
+ Resultado: -1365245952
+Tempo da soma : 0.0000000000000000 sec
+
+ SUM Tipo: 2
+ Resultado: -1365245952
+Tempo da soma : 0.1790001392364502 sec
+
+ +++++++++++
+ THREADS: 14
+ MTP Tipo: 1
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 0.6519999504089356 sec
+Tempo total das multiplicacoes : 0.6519999504089356 sec
+Tempo total de execucao : 0.6900000572204590 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0390000343322754 sec
+Tempo medio de uma multiplicacao : 0.6630001068115234 sec
+Tempo total das multiplicacoes : 0.6630001068115234 sec
+Tempo total de execucao : 0.7020001411437988 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0389997959136963 sec
+Tempo medio de uma multiplicacao : 0.6549999713897705 sec
+Tempo total das multiplicacoes : 0.6549999713897705 sec
+Tempo total de execucao : 0.6939997673034668 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0349998474121094 sec
+Tempo medio de uma multiplicacao : 0.6150000095367432 sec
+Tempo total das multiplicacoes : 0.6150000095367432 sec
+Tempo total de execucao : 0.6499998569488525 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0390000343322754 sec
+Tempo medio de uma multiplicacao : 6.9160001277923584 sec
+Tempo total das multiplicacoes : 6.9160001277923584 sec
+Tempo total de execucao : 6.9550001621246338 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 35.9539999961853030 sec
+Tempo total das multiplicacoes : 35.9539999961853030 sec
+Tempo total de execucao : 35.9920001029968260 sec
+
+ SUM Tipo: 1
+ Resultado: 1043005440
+Tempo da soma : 0.0000000000000000 sec
+
+ SUM Tipo: 2
+ Resultado: 1043005440
+Tempo da soma : 0.1610000133514404 sec
+
+ +++++++++++
+ THREADS: 15
+ MTP Tipo: 1
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 0.6119999885559082 sec
+Tempo total das multiplicacoes : 0.6119999885559082 sec
+Tempo total de execucao : 0.6500000953674316 sec
+
+ MTP Tipo: 2
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 0.6399998664855957 sec
+Tempo total das multiplicacoes : 0.6399998664855957 sec
+Tempo total de execucao : 0.6779999732971191 sec
+
+ MTP Tipo: 3
+Tempo de criacao : 0.0379998683929443 sec
+Tempo medio de uma multiplicacao : 0.6419999599456787 sec
+Tempo total das multiplicacoes : 0.6419999599456787 sec
+Tempo total de execucao : 0.6799998283386231 sec
+
+ MTP Tipo: 4
+Tempo de criacao : 0.0320000648498535 sec
+Tempo medio de uma multiplicacao : 0.5919997692108154 sec
+Tempo total das multiplicacoes : 0.5919997692108154 sec
+Tempo total de execucao : 0.6239998340606690 sec
+
+ MTP Tipo: 5
+Tempo de criacao : 0.0390000343322754 sec
+Tempo medio de uma multiplicacao : 6.4890000820159912 sec
+Tempo total das multiplicacoes : 6.4890000820159912 sec
+Tempo total de execucao : 6.5280001163482666 sec
+
+ MTP Tipo: 6
+Tempo de criacao : 0.0380001068115234 sec
+Tempo medio de uma multiplicacao : 35.4049999713897710 sec
+Tempo total das multiplicacoes : 35.4049999713897710 sec
+Tempo total de execucao : 35.4430000782012940 sec
+
+ SUM Tipo: 1
+ Resultado: -516710400
+Tempo da soma : 0.0009999275207520 sec
+
+ SUM Tipo: 2
+ Resultado: -516710400
+Tempo da soma : 0.1989998817443848 sec
