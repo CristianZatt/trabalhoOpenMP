@@ -36,7 +36,7 @@ int main(){
 	fputs("Numero maximo de threads: ", stdout);
 	scanf("%d", &max_threads);
 	getchar();
-	for (int t = 8; t <= max_threads; t++){
+	for (int t = 1; t <= max_threads; t++){
 		omp_set_num_threads(t);
 		printf("\n +++++++++++\n THREADS: %i", t);
 		for (tipo = y; tipo <= 6; tipo++){
